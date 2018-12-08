@@ -1,0 +1,7 @@
+C:\Users\Rafał\Desktop\studia\semestr V\POD\lab\lab4\BBS\BBS\bin\Debug\BBS.exe.config
+C:\Users\Rafał\Desktop\studia\semestr V\POD\lab\lab4\BBS\BBS\bin\Debug\BBS.exe
+C:\Users\Rafał\Desktop\studia\semestr V\POD\lab\lab4\BBS\BBS\bin\Debug\BBS.pdb
+C:\Users\Rafał\Desktop\studia\semestr V\POD\lab\lab4\BBS\BBS\obj\Debug\BBS.csprojAssemblyReference.cache
+C:\Users\Rafał\Desktop\studia\semestr V\POD\lab\lab4\BBS\BBS\obj\Debug\BBS.csproj.CoreCompileInputs.cache
+C:\Users\Rafał\Desktop\studia\semestr V\POD\lab\lab4\BBS\BBS\obj\Debug\BBS.exe
+C:\Users\Rafał\Desktop\studia\semestr V\POD\lab\lab4\BBS\BBS\obj\Debug\BBS.pdb
